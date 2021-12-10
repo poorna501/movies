@@ -1,0 +1,7 @@
+{
+	"mongoDBURL": "mongodb://localhost:27017/movie", 
+	"tokenExpiresInMinutes": 14400,
+	"jwtSecret": "abcdDG82=KKLDXNA4E=3J44H-65HDT*WJKQ=MSFD4AWJXX",
+	"randomStringKey":"eyJuYW1lIjoiYnVwYSIsInBhc3N3b3JkIjoiTHRpOGZJdUNiRUEiLCJpYXQiOjE2MDg1NDkxMDF9"
+}
+
